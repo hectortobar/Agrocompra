@@ -8,7 +8,7 @@
         content="width=device-width, initial-scale=1.0"
     >
 
-    <title>Café Aroma</title>
+    <title>Agrocompra</title>
 
     <!-- Bootstrap CSS -->
     <link
@@ -80,7 +80,7 @@
     <!-- Sección de bienvenida -->
     <header
         id="inicio"
-       class="bg-success text-white py-5"
+        class="bg-success text-white py-5"
     >
         <div class="container py-5">
             <div class="row align-items-center">
@@ -91,12 +91,12 @@
                     </span>
 
                     <h1 class="display-3 fw-bold">
-                        Del campo a tu meza 
+                        Del campo a tu mesa
                     </h1>
 
                     <p class="lead">
                         "Descubre una selección de productos del campo
-                         con el origen, la frescura y el 
+                         con el origen, la frescura y el
                          sabor tradicional de nuestra tierra."
                     </p>
 
@@ -110,11 +110,11 @@
 
                 <div class="col-lg-5 text-center mt-4 mt-lg-0">
                     <span class="display-1">
-                        
+                        🧺
                     </span>
 
                     <h2 class="mt-3">
-                        del campo a tu meza
+                        Frescura garantizada
                     </h2>
                 </div>
 
@@ -146,21 +146,21 @@
                             <img
                                 src="https://solofruver.com/wp-content/uploads/2025/09/papa-lavada.jpg"
                                 class="card-img-top object-fit-cover"
-                                alt="Taza de café espresso"
+                                alt="Papa capiro"
                             >
                         </div>
 
                         <div class="card-body d-flex flex-column">
                             <span class="badge bg-danger align-self-start mb-2">
-                                papa
+                                Papa
                             </span>
 
                             <h3 class="card-title h5">
-                                capiro
+                                Capiro
                             </h3>
 
                             <p class="card-text text-secondary">
-                                la mejor papa de Nariño.
+                                La mejor papa de Nariño.
                             </p>
 
                             <div class="mt-auto">
@@ -185,17 +185,17 @@
                             <img
                                 src="https://bluxus.com/wp-content/uploads/2025/01/Descubre-el-Mejor-Precio-del-Frijol-Cargamanto-Rojo-en-Colombia.webp"
                                 class="card-img-top object-fit-cover"
-                                alt="Taza de café capuchino"
+                                alt="Fríjol lima"
                             >
                         </div>
 
                         <div class="card-body d-flex flex-column">
                             <span class="badge bg-warning text-dark align-self-start mb-2">
-                                Frijol 
+                                Fríjol
                             </span>
 
                             <h3 class="card-title h5">
-                                lima
+                                Lima
                             </h3>
 
                             <p class="card-text text-secondary">
@@ -224,17 +224,17 @@
                             <img
                                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoapBh_kAHeudbFmeqyfft5HImXcwbd5HR6mkIo2EEyYVcnf7G6oHP8yE&s=10"
                                 class="card-img-top object-fit-cover"
-                                alt="Taza de café latte"
+                                alt="Maíz capio"
                             >
                         </div>
 
                         <div class="card-body d-flex flex-column">
                             <span class="badge bg-info text-dark align-self-start mb-2">
-                                maiz 
+                                Maíz
                             </span>
 
                             <h3 class="card-title h5">
-                                capio 
+                                Capio
                             </h3>
 
                             <p class="card-text text-secondary">
@@ -263,7 +263,7 @@
                             <img
                                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCeZPUQwD5QmPmQLDrXnvjcGgM2Z4v9xWpv3kGFv3ANXJMt3H14JA0E1M&s=10"
                                 class="card-img-top object-fit-cover"
-                                alt="Vaso de café frío"
+                                alt="Naranja tangelo"
                             >
                         </div>
 
@@ -309,13 +309,13 @@
                     </span>
 
                     <h2 class="fw-bold mt-3">
-                        Café cultivado con tradición
+                        Productos cultivados con tradición
                     </h2>
 
                     <p class="text-secondary">
-                        Trabajamos con granos seleccionados y productores
-                        locales para ofrecer una experiencia auténtica,
-                        fresca y llena de aroma.
+                        Trabajamos junto a productores locales de Nariño
+                        para ofrecerte productos frescos, cultivados con
+                        tradición y con el verdadero sabor del campo.
                     </p>
                 </div>
 
@@ -329,11 +329,11 @@
 
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item bg-transparent">
-                                    ✓ Granos de origen colombiano
+                                    ✓ Productos de origen colombiano
                                 </li>
 
                                 <li class="list-group-item bg-transparent">
-                                    ✓ Preparaciones artesanales
+                                    ✓ Cultivo tradicional y sostenible
                                 </li>
 
                                 <li class="list-group-item bg-transparent">
@@ -362,8 +362,8 @@
             </h2>
 
             <p class="text-secondary">
-                Disfruta una buena conversación acompañada de una
-                excelente taza de café.
+                Ven y elige los mejores productos frescos directamente
+                del campo a tu hogar.
             </p>
 
             <div class="row justify-content-center mt-4">
@@ -406,7 +406,7 @@
     <footer class="bg-dark text-white text-center py-4">
         <div class="container">
             <p class="mb-1 fw-bold">
-                ☕ Café Aroma
+                🍎 Agrocompra
             </p>
 
             <p class="mb-0 text-white-50">
